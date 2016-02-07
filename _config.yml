@@ -1,0 +1,14 @@
+layout_spectrum: 0.4027576
+typography_spectrum: 0.2759341
+color:
+  saturation: 0.9999835
+  lightness: 0.6415653
+  brandStrength: 0.00370953
+  rhythmicContrast: 0.397345
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Security News
