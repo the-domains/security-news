@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Information Security News]]></title>
+        <description><![CDATA[Information Security News]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Feb 2016 21:35:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[University of Central Florida computer network hacked: 63,000 affected]]></title>
+            <description><![CDATA[<article><h1>University of Central Florida computer network hacked: 63,000 affected</h1><p>The University of Central Florida on Thursday announced a massive data breach, saying hackers swiped about 63,000 Social Security numbers from students and staffers. The University of Central Florida posted a statement on its website Feb. 4 that "a recent outside intrusion into UCF's computer network compromised the personally identifiable information of some members of our university community.</p><img src="http://www.topix.com/ipicimg/53HK9EJKBRCLUUMH-fill320x160"></article>]]></description>
+            <link>undefineduniversity-of-central-florida-computer-network-hacked-6300/index.html</link>
+            <guid isPermaLink="false">579fc910-a544-4eca-9bc8-ae3043e5d4a5</guid>
+            <pubDate>Sun, 07 Feb 2016 20:49:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
