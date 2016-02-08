@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Information Security News]]></title>
         <description><![CDATA[Information Security News]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/security-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 21:35:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 01:25:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/security-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[When security products make systems less secure]]></title>
+            <description><![CDATA[<article><h1>When security products make systems less secure</h1><p>There has been an increase in reports pf security products recently which make user systems less secure when they are installed, used or even just present on the system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cd9aef5a966a940435a0ffd87a4a611020a8274.jpg"></article>]]></description>
+            <link>http://www.ghacks.net/2016/02/06/avast-safezone-browser-vulnerability-disclosed-by-google/</link>
+            <guid isPermaLink="false">31f6ba17-9a7c-41f6-ac64-ad333fc044f4</guid>
+            <pubDate>Mon, 08 Feb 2016 01:24:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[University of Central Florida computer network hacked: 63,000 affected]]></title>
-            <description><![CDATA[<article><h1>University of Central Florida computer network hacked: 63,000 affected</h1><p>The University of Central Florida on Thursday announced a massive data breach, saying hackers swiped about 63,000 Social Security numbers from students and staffers. The University of Central Florida posted a statement on its website Feb. 4 that "a recent outside intrusion into UCF's computer network compromised the personally identifiable information of some members of our university community.</p><img src="http://www.topix.com/ipicimg/53HK9EJKBRCLUUMH-fill320x160"></article>]]></description>
-            <link>undefineduniversity-of-central-florida-computer-network-hacked-6300/index.html</link>
+            <description><![CDATA[<article><h1>University of Central Florida computer network hacked: 63,000 affected</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f565f74feb8301fa937c8da26a7f4c4b61b6b3b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/security-news/university-of-central-florida-computer-network-hacked-6300/index.html</link>
             <guid isPermaLink="false">579fc910-a544-4eca-9bc8-ae3043e5d4a5</guid>
             <pubDate>Sun, 07 Feb 2016 20:49:39 GMT</pubDate>
         </item>
