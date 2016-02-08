@@ -4,11 +4,18 @@
         <description><![CDATA[Information Security News]]></description>
         <link>https://thegrid.ai/security-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 01:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 01:37:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/security-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[That One Privacy Guy's VPN Comparison Chart]]></title>
+            <description><![CDATA[<article><h1>That One Privacy Guy&apos;s VPN Comparison Chart</h1></article>]]></description>
+            <link>https://docs.google.com/spreadsheets/d/1FJTvWT5RHFSYuEoFVpAeQjuQPU4BVzbOigT0xebxTOw/htmlview?usp=sharing&amp;sle=true</link>
+            <guid isPermaLink="false">acd28312-c95e-4984-b011-896a06c9671e</guid>
+            <pubDate>Mon, 08 Feb 2016 01:37:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[When security products make systems less secure]]></title>
-            <description><![CDATA[<article><h1>When security products make systems less secure</h1><p>There has been an increase in reports pf security products recently which make user systems less secure when they are installed, used or even just present on the system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cd9aef5a966a940435a0ffd87a4a611020a8274.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>When security products make systems less secure</h1><p>There has been an increase in reports pf security products recently which make user systems less secure when they are installed, used or even just present on the system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d25b16edbfa200031c2c4438efb2691640f6363.jpg"></article>]]></description>
             <link>http://www.ghacks.net/2016/02/06/avast-safezone-browser-vulnerability-disclosed-by-google/</link>
             <guid isPermaLink="false">31f6ba17-9a7c-41f6-ac64-ad333fc044f4</guid>
             <pubDate>Mon, 08 Feb 2016 01:24:57 GMT</pubDate>
