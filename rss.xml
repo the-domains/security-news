@@ -4,11 +4,18 @@
         <description><![CDATA[Information Security News]]></description>
         <link>https://thegrid.ai/security-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 02:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 11:28:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/security-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Hacker Plans to Dump Alleged Details of 20,000 FBI, 9,000 DHS Employees]]></title>
+            <description><![CDATA[<article><h1>Hacker Plans to Dump Alleged Details of 20,000 FBI, 9,000 DHS Employees</h1><p>A hacker, who wishes to remain anonymous, plans to dump the apparent names, job titles, email addresses and phone numbers of over 20,000 supposed FBI employees, as well as over 9,000 alleged Department of Homeland Security (DHS) employees, Motherboard has learned.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c3a9f70547a10d16dc4cd685b095030b5710cf8.jpg"></article>]]></description>
+            <link>https://motherboard.vice.com/read/hacker-plans-to-dump-alleged-details-of-20000-fbi-9000-dhs-employees</link>
+            <guid isPermaLink="false">8824af2d-91b4-44e9-8d05-e26b3007821e</guid>
+            <pubDate>Mon, 08 Feb 2016 11:27:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hacking Microsoft SQL Server Without a Password - Anitian Blog]]></title>
-            <description><![CDATA[<article><h1>Hacking Microsoft SQL Server Without a Password - Anitian Blog</h1><p>During a recent penetration test, I was performing some packet captures and noticed some unencrypted Microsoft SQL Server (MSSQL) traffic. The syntax was unmistakable. At first I thought this might be a way to capture some authentication credentials. However, MSSQL encrypts login traffic which meant I would have to crack the encryption to get credentials.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/845b012b4510829be56bdd017cc312a8f293e949.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Hacking Microsoft SQL Server Without a Password - Anitian Blog</h1><p>During a recent penetration test, I was performing some packet captures and noticed some unencrypted Microsoft SQL Server (MSSQL) traffic. The syntax was unmistakable. At first I thought this might be a way to capture some authentication credentials. However, MSSQL encrypts login traffic which meant I would have to crack the encryption to get credentials.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81f994ef9185166681400a4be79c37c1cf8a6104.png"></article>]]></description>
             <link>https://blog.anitian.com/hacking-microsoft-sql-server-without-a-password/</link>
             <guid isPermaLink="false">5c539d44-69ae-4869-8cc5-aea15a66274b</guid>
             <pubDate>Mon, 08 Feb 2016 02:03:09 GMT</pubDate>
