@@ -4,11 +4,18 @@
         <description><![CDATA[Information Security News]]></description>
         <link>https://thegrid.ai/security-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 01:40:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Feb 2016 01:54:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/security-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Hack-proof RFID chips]]></title>
+            <description><![CDATA[<article><h1>Hack-proof RFID chips</h1><p>Researchers at MIT and Texas Instruments have developed a new type of radio frequency identification (RFID) chip that is virtually impossible to hack. If such chips were widely adopted, it could mean that an identity thief couldn't steal your credit card number or key card information by sitting next to you at a café, and high-tech burglars couldn't swipe expensive goods from a warehouse and replace them with dummy tags.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acdd1cb9ef359a0ab432b808a30873524a47501a.jpg"></article>]]></description>
+            <link>http://news.mit.edu/2016/hack-proof-rfid-chips-0203</link>
+            <guid isPermaLink="false">44d075ff-5de2-4d1f-9610-34731f54adc9</guid>
+            <pubDate>Mon, 08 Feb 2016 01:53:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Build your own DEB and RPM packages]]></title>
-            <description><![CDATA[<article><h1>Build your own DEB and RPM packages</h1><p>If you count the most prominent and well-known Linux distributions, you'll notice that nearly all of them utilise two software package types: DEB or RPM. The first one comes from the world of Debian and spreads on Ubuntu and dozens of its derivatives, while the RPM, originally created for Red Hat, is used in Fedora, Mageia, OpenSUSE and many others.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/355e6eff84aab528993bb9237310edb7524a6b0a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Build your own DEB and RPM packages</h1><p>If you count the most prominent and well-known Linux distributions, you'll notice that nearly all of them utilise two software package types: DEB or RPM. The first one comes from the world of Debian and spreads on Ubuntu and dozens of its derivatives, while the RPM, originally created for Red Hat, is used in Fedora, Mageia, OpenSUSE and many others.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/710c67eaeb55358ce77303442a36259dae326285.jpg"></article>]]></description>
             <link>http://www.linuxuser.co.uk/tutorials/build-your-own-deb-and-rpm-packages</link>
             <guid isPermaLink="false">065aa200-bd8f-4bac-bf39-602b2e2960b1</guid>
             <pubDate>Mon, 08 Feb 2016 01:40:31 GMT</pubDate>
