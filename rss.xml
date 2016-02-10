@@ -4,11 +4,32 @@
         <description><![CDATA[Information Security News]]></description>
         <link>https://thegrid.ai/security-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 11:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 16:05:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/security-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Good News, Sourceforge stops bundling adware with installers]]></title>
+            <description><![CDATA[<article><h1>Good News, Sourceforge stops bundling adware with installers</h1><p>Sourceforge, once the go-to site for open source project management, has experienced a rough time in recent years thanks to the rise of competing services like GitHub, but also because of the DevShare program and placement of advertisement on the site.</p><img src="http://cdn.ghacks.net/wp-content/uploads/2016/02/sourceforge-no-adware.jpg"></article>]]></description>
+            <link>http://www.ghacks.net/2016/02/10/good-news-sourceforge-stops-bundling-adware-with-installers/</link>
+            <guid isPermaLink="false">35b47197-2314-4a7c-ba3a-eca125e4194d</guid>
+            <pubDate>Wed, 10 Feb 2016 11:41:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[All Versions of Windows affected by Critical Security Vulnerability]]></title>
+            <description><![CDATA[<article><h1>All Versions of Windows affected by Critical Security Vulnerability</h1><p>Microsoft has released 13 security bulletins, six of which are considered to be critical, resolving a total of 41 security vulnerabilities in its software this month. One of the critical vulnerabilities affects all supported version of Windows, including Microsoft's newest Windows 10 operating system, as well as Windows Server 2016 Tech Preview 4.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af4e79365b15b0f5f8ac588af27c8963a0a61861.png"></article>]]></description>
+            <link>https://thehackernews.com/2016/02/windows-security-update.html</link>
+            <guid isPermaLink="false">bfa68404-fe42-4ec4-9350-34860cfbeee3</guid>
+            <pubDate>Wed, 10 Feb 2016 11:37:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Network forensic analysis tool NetworkMiner 2.0 released]]></title>
+            <description><![CDATA[<article><h1>Network forensic analysis tool NetworkMiner 2.0 released</h1><p>NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c1bc580b6fb178c80241f8d8721488770c5120c.jpg"></article>]]></description>
+            <link>http://www.net-security.org/secworld.php?id=19421</link>
+            <guid isPermaLink="false">ff4e3198-f18e-4a30-9906-164d4b6afcfd</guid>
+            <pubDate>Wed, 10 Feb 2016 11:36:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Hackers Are Offering Apple Employees $23,000 for Corporate Login Details]]></title>
-            <description><![CDATA[<article><h1>Hackers Are Offering Apple Employees $23,000 for Corporate Login Details</h1><p>An unsatisfied Employee may turn into a Nightmare for you and your organization. Nowadays, installing an antivirus or any other anti-malware programs would be inadequate to beef up the security to maintain the Corporate Database. What would you do if your employee itself backstabbed you by breaching the Hypersensitive Corporate Secrets?</p><img src="https://2.bp.blogspot.com/-mHXGVVLG_gg/VrsEVp5H4kI/AAAAAAAAmnI/dpiHJqI_jeA/s1600/hacking-apple-id.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Hackers Are Offering Apple Employees $23,000 for Corporate Login Details</h1><p>An unsatisfied Employee may turn into a Nightmare for you and your organization. Nowadays, installing an antivirus or any other anti-malware programs would be inadequate to beef up the security to maintain the Corporate Database. What would you do if your employee itself backstabbed you by breaching the Hypersensitive Corporate Secrets?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c9d01d2ab1121bfc73b76867c7ed90f3f046216.jpg"></article>]]></description>
             <link>https://thehackernews.com/2016/02/hacking-apple-id.html</link>
             <guid isPermaLink="false">030cec3f-db56-4619-bdfe-04a99067c9a9</guid>
             <pubDate>Wed, 10 Feb 2016 11:34:57 GMT</pubDate>
@@ -54,27 +75,6 @@
             <link>http://www.linuxuser.co.uk/tutorials/build-your-own-deb-and-rpm-packages</link>
             <guid isPermaLink="false">065aa200-bd8f-4bac-bf39-602b2e2960b1</guid>
             <pubDate>Mon, 08 Feb 2016 01:40:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[That One Privacy Guy's VPN Comparison Chart]]></title>
-            <description><![CDATA[<article><h1>That One Privacy Guy&apos;s VPN Comparison Chart</h1></article>]]></description>
-            <link>https://docs.google.com/spreadsheets/d/1FJTvWT5RHFSYuEoFVpAeQjuQPU4BVzbOigT0xebxTOw/htmlview?usp=sharing&amp;sle=true</link>
-            <guid isPermaLink="false">acd28312-c95e-4984-b011-896a06c9671e</guid>
-            <pubDate>Mon, 08 Feb 2016 01:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When security products make systems less secure]]></title>
-            <description><![CDATA[<article><h1>When security products make systems less secure</h1><p>There has been an increase in reports pf security products recently which make user systems less secure when they are installed, used or even just present on the system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d25b16edbfa200031c2c4438efb2691640f6363.jpg"></article>]]></description>
-            <link>http://www.ghacks.net/2016/02/06/avast-safezone-browser-vulnerability-disclosed-by-google/</link>
-            <guid isPermaLink="false">31f6ba17-9a7c-41f6-ac64-ad333fc044f4</guid>
-            <pubDate>Mon, 08 Feb 2016 01:24:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[University of Central Florida computer network hacked: 63,000 affected]]></title>
-            <description><![CDATA[<article><h1>University of Central Florida computer network hacked: 63,000 affected</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f565f74feb8301fa937c8da26a7f4c4b61b6b3b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/security-news/university-of-central-florida-computer-network-hacked-6300/index.html</link>
-            <guid isPermaLink="false">579fc910-a544-4eca-9bc8-ae3043e5d4a5</guid>
-            <pubDate>Sun, 07 Feb 2016 20:49:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
