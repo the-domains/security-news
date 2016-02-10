@@ -7,8 +7,15 @@
         <lastBuildDate>Wed, 10 Feb 2016 11:41:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/security-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[All Versions of Windows affected by Critical Security Vulnerability]]></title>
+            <description><![CDATA[<article><h1>All Versions of Windows affected by Critical Security Vulnerability</h1><p>Microsoft has released 13 security bulletins, six of which are considered to be critical, resolving a total of 41 security vulnerabilities in its software this month. One of the critical vulnerabilities affects all supported version of Windows, including Microsoft's newest Windows 10 operating system, as well as Windows Server 2016 Tech Preview 4.</p><img src="https://4.bp.blogspot.com/-_FW4U_IvOjo/VrrmUaUUUSI/AAAAAAAAmm4/0k4d13Em3bI/s1600/windows-10-update.png"></article>]]></description>
+            <link>https://thehackernews.com/2016/02/windows-security-update.html</link>
+            <guid isPermaLink="false">bfa68404-fe42-4ec4-9350-34860cfbeee3</guid>
+            <pubDate>Wed, 10 Feb 2016 11:37:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Network forensic analysis tool NetworkMiner 2.0 released]]></title>
-            <description><![CDATA[<article><h1>Network forensic analysis tool NetworkMiner 2.0 released</h1><p>NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ...</p><img src="http://www.net-security.org/images/FBOG2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Network forensic analysis tool NetworkMiner 2.0 released</h1><p>NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c1bc580b6fb178c80241f8d8721488770c5120c.jpg"></article>]]></description>
             <link>http://www.net-security.org/secworld.php?id=19421</link>
             <guid isPermaLink="false">ff4e3198-f18e-4a30-9906-164d4b6afcfd</guid>
             <pubDate>Wed, 10 Feb 2016 11:36:19 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://docs.google.com/spreadsheets/d/1FJTvWT5RHFSYuEoFVpAeQjuQPU4BVzbOigT0xebxTOw/htmlview?usp=sharing&amp;sle=true</link>
             <guid isPermaLink="false">acd28312-c95e-4984-b011-896a06c9671e</guid>
             <pubDate>Mon, 08 Feb 2016 01:37:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[When security products make systems less secure]]></title>
-            <description><![CDATA[<article><h1>When security products make systems less secure</h1><p>There has been an increase in reports pf security products recently which make user systems less secure when they are installed, used or even just present on the system.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d25b16edbfa200031c2c4438efb2691640f6363.jpg"></article>]]></description>
-            <link>http://www.ghacks.net/2016/02/06/avast-safezone-browser-vulnerability-disclosed-by-google/</link>
-            <guid isPermaLink="false">31f6ba17-9a7c-41f6-ac64-ad333fc044f4</guid>
-            <pubDate>Mon, 08 Feb 2016 01:24:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
