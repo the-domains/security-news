@@ -4,11 +4,25 @@
         <description><![CDATA[Information Security News]]></description>
         <link>https://thegrid.ai/security-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 00:36:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 11:41:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/security-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Network forensic analysis tool NetworkMiner 2.0 released]]></title>
+            <description><![CDATA[<article><h1>Network forensic analysis tool NetworkMiner 2.0 released</h1><p>NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ...</p><img src="http://www.net-security.org/images/FBOG2.jpg"></article>]]></description>
+            <link>http://www.net-security.org/secworld.php?id=19421</link>
+            <guid isPermaLink="false">ff4e3198-f18e-4a30-9906-164d4b6afcfd</guid>
+            <pubDate>Wed, 10 Feb 2016 11:36:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hackers Are Offering Apple Employees $23,000 for Corporate Login Details]]></title>
+            <description><![CDATA[<article><h1>Hackers Are Offering Apple Employees $23,000 for Corporate Login Details</h1><p>An unsatisfied Employee may turn into a Nightmare for you and your organization. Nowadays, installing an antivirus or any other anti-malware programs would be inadequate to beef up the security to maintain the Corporate Database. What would you do if your employee itself backstabbed you by breaching the Hypersensitive Corporate Secrets?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c9d01d2ab1121bfc73b76867c7ed90f3f046216.jpg"></article>]]></description>
+            <link>https://thehackernews.com/2016/02/hacking-apple-id.html</link>
+            <guid isPermaLink="false">030cec3f-db56-4619-bdfe-04a99067c9a9</guid>
+            <pubDate>Wed, 10 Feb 2016 11:34:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Malware Museum : Free Software : Download & Streaming : Internet Archive]]></title>
-            <description><![CDATA[<article><h1>The Malware Museum : Free Software : Download & Streaming : Internet Archive</h1><p>The Malware Museum is a collection of malware programs, usually viruses, that were distributed in the 1980s and 1990s on home computers. Once they infected a system, they would sometimes show animation or messages that you had been infected. Through the use of emulations, and additionally removing...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/304dc6c84cc78a21fe13bd60c9b9ebaad4d2500f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Malware Museum : Free Software : Download & Streaming : Internet Archive</h1><p>The Malware Museum is a collection of malware programs, usually viruses, that were distributed in the 1980s and 1990s on home computers. Once they infected a system, they would sometimes show animation or messages that you had been infected. Through the use of emulations, and additionally removing...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cbc3d337853f2f7c273eaefbd757757dfa2c0ca9.jpg"></article>]]></description>
             <link>https://archive.org/details/malwaremuseum&amp;tab=about</link>
             <guid isPermaLink="false">b15fff44-3828-4551-b0d7-1505ce2cd6f4</guid>
             <pubDate>Tue, 09 Feb 2016 00:35:37 GMT</pubDate>
@@ -61,13 +75,6 @@
             <link>http://www.ghacks.net/2016/02/06/avast-safezone-browser-vulnerability-disclosed-by-google/</link>
             <guid isPermaLink="false">31f6ba17-9a7c-41f6-ac64-ad333fc044f4</guid>
             <pubDate>Mon, 08 Feb 2016 01:24:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[University of Central Florida computer network hacked: 63,000 affected]]></title>
-            <description><![CDATA[<article><h1>University of Central Florida computer network hacked: 63,000 affected</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f565f74feb8301fa937c8da26a7f4c4b61b6b3b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/security-news/university-of-central-florida-computer-network-hacked-6300/index.html</link>
-            <guid isPermaLink="false">579fc910-a544-4eca-9bc8-ae3043e5d4a5</guid>
-            <pubDate>Sun, 07 Feb 2016 20:49:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
