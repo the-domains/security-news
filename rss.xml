@@ -4,11 +4,18 @@
         <description><![CDATA[Information Security News]]></description>
         <link>https://thegrid.ai/security-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 01:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 11:34:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/security-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Gmail's new security indicators]]></title>
+            <description><![CDATA[<article><h1>Gmail's new security indicators</h1><p>Google added two new security indicators to its email service Gmail which reveal TLS encryption support and whether the sender could be authenticated. Many popular email services, including Gmail, support TLS (Transport Layer Security) encryption to protect data while it is in transit.</p><img src="http://cdn.ghacks.net/wp-content/uploads/2016/02/gmail-tls-encryption.jpg"></article>]]></description>
+            <link>http://www.ghacks.net/2016/02/11/web-gmail-gets-two-new-security-indicators/</link>
+            <guid isPermaLink="false">ff3cae88-c27d-4070-a517-0dcfcab7c97a</guid>
+            <pubDate>Thu, 11 Feb 2016 11:33:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[New Bill Aims to Stop State-Level Decryption Before It Starts]]></title>
-            <description><![CDATA[<article><h1>New Bill Aims to Stop State-Level Decryption Before It Starts</h1><p>Over the last several months, local legislators have embarked on a curious quest to ban encryption at a state level. For a litany of reasons, this makes no sense. And now, a new bill in Congress will attempt to stop the inanity before it becomes a trend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad0ae47e8e5516e089b1c4e94ff8fc3f12e0406b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>New Bill Aims to Stop State-Level Decryption Before It Starts</h1><p>Over the last several months, local legislators have embarked on a curious quest to ban encryption at a state level. For a litany of reasons, this makes no sense. And now, a new bill in Congress will attempt to stop the inanity before it becomes a trend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c29cdd7573b8fe8ff2fe7ead146dc96e9020a10.jpg"></article>]]></description>
             <link>http://www.wired.com/2016/02/encrypt-act-2016/</link>
             <guid isPermaLink="false">cb96bb1c-8358-441c-8cb1-7761ce125a09</guid>
             <pubDate>Thu, 11 Feb 2016 01:13:35 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://hackaday.com/2016/02/06/reverse-engineering-a-wifi-security-camera/</link>
             <guid isPermaLink="false">dc0f71e7-6b5c-48fc-a670-0d05156b9f68</guid>
             <pubDate>Mon, 08 Feb 2016 01:58:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hack-proof RFID chips]]></title>
-            <description><![CDATA[<article><h1>Hack-proof RFID chips</h1><p>Researchers at MIT and Texas Instruments have developed a new type of radio frequency identification (RFID) chip that is virtually impossible to hack. If such chips were widely adopted, it could mean that an identity thief couldn't steal your credit card number or key card information by sitting next to you at a café, and high-tech burglars couldn't swipe expensive goods from a warehouse and replace them with dummy tags.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6eef12d54bd4c4188aecf87fbc7adb54e315e2c0.jpg"></article>]]></description>
-            <link>http://news.mit.edu/2016/hack-proof-rfid-chips-0203</link>
-            <guid isPermaLink="false">44d075ff-5de2-4d1f-9610-34731f54adc9</guid>
-            <pubDate>Mon, 08 Feb 2016 01:53:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
