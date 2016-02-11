@@ -4,11 +4,18 @@
         <description><![CDATA[Information Security News]]></description>
         <link>https://thegrid.ai/security-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 16:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 01:14:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/security-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[New Bill Aims to Stop State-Level Decryption Before It Starts]]></title>
+            <description><![CDATA[<article><h1>New Bill Aims to Stop State-Level Decryption Before It Starts</h1><p>Over the last several months, local legislators have embarked on a curious quest to ban encryption at a state level. For a litany of reasons, this makes no sense. And now, a new bill in Congress will attempt to stop the inanity before it becomes a trend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad0ae47e8e5516e089b1c4e94ff8fc3f12e0406b.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/02/encrypt-act-2016/</link>
+            <guid isPermaLink="false">cb96bb1c-8358-441c-8cb1-7761ce125a09</guid>
+            <pubDate>Thu, 11 Feb 2016 01:13:35 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Good News, Sourceforge stops bundling adware with installers]]></title>
-            <description><![CDATA[<article><h1>Good News, Sourceforge stops bundling adware with installers</h1><p>Sourceforge, once the go-to site for open source project management, has experienced a rough time in recent years thanks to the rise of competing services like GitHub, but also because of the DevShare program and placement of advertisement on the site.</p><img src="http://cdn.ghacks.net/wp-content/uploads/2016/02/sourceforge-no-adware.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Good News, Sourceforge stops bundling adware with installers</h1><p>Sourceforge, once the go-to site for open source project management, has experienced a rough time in recent years thanks to the rise of competing services like GitHub, but also because of the DevShare program and placement of advertisement on the site.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f017440c16d0e8b5ff1013244e7cd4793443e50.jpg"></article>]]></description>
             <link>http://www.ghacks.net/2016/02/10/good-news-sourceforge-stops-bundling-adware-with-installers/</link>
             <guid isPermaLink="false">35b47197-2314-4a7c-ba3a-eca125e4194d</guid>
             <pubDate>Wed, 10 Feb 2016 11:41:16 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://news.mit.edu/2016/hack-proof-rfid-chips-0203</link>
             <guid isPermaLink="false">44d075ff-5de2-4d1f-9610-34731f54adc9</guid>
             <pubDate>Mon, 08 Feb 2016 01:53:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Build your own DEB and RPM packages]]></title>
-            <description><![CDATA[<article><h1>Build your own DEB and RPM packages</h1><p>If you count the most prominent and well-known Linux distributions, you'll notice that nearly all of them utilise two software package types: DEB or RPM. The first one comes from the world of Debian and spreads on Ubuntu and dozens of its derivatives, while the RPM, originally created for Red Hat, is used in Fedora, Mageia, OpenSUSE and many others.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/710c67eaeb55358ce77303442a36259dae326285.jpg"></article>]]></description>
-            <link>http://www.linuxuser.co.uk/tutorials/build-your-own-deb-and-rpm-packages</link>
-            <guid isPermaLink="false">065aa200-bd8f-4bac-bf39-602b2e2960b1</guid>
-            <pubDate>Mon, 08 Feb 2016 01:40:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
