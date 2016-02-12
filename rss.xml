@@ -4,11 +4,18 @@
         <description><![CDATA[Information Security News]]></description>
         <link>https://thegrid.ai/security-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 11:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 12:43:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/security-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[minimaxir/big-list-of-naughty-strings]]></title>
+            <description><![CDATA[<article><h1>minimaxir/big-list-of-naughty-strings</h1><p>big-list-of-naughty-strings - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8c5204baa12f0c5983133df5a9b918399075658.jpg"></article>]]></description>
+            <link>https://github.com/minimaxir/big-list-of-naughty-strings</link>
+            <guid isPermaLink="false">3b1e91f7-a273-42ff-b177-1067041c1d7a</guid>
+            <pubDate>Fri, 12 Feb 2016 12:43:02 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gmail's new security indicators]]></title>
-            <description><![CDATA[<article><h1>Gmail's new security indicators</h1><p>Google added two new security indicators to its email service Gmail which reveal TLS encryption support and whether the sender could be authenticated. Many popular email services, including Gmail, support TLS (Transport Layer Security) encryption to protect data while it is in transit.</p><img src="http://cdn.ghacks.net/wp-content/uploads/2016/02/gmail-tls-encryption.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Gmail's new security indicators</h1><p>Google added two new security indicators to its email service Gmail which reveal TLS encryption support and whether the sender could be authenticated. Many popular email services, including Gmail, support TLS (Transport Layer Security) encryption to protect data while it is in transit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e65b65897e538cc8df42013785bc6fcbbc4d9483.jpg"></article>]]></description>
             <link>http://www.ghacks.net/2016/02/11/web-gmail-gets-two-new-security-indicators/</link>
             <guid isPermaLink="false">ff3cae88-c27d-4070-a517-0dcfcab7c97a</guid>
             <pubDate>Thu, 11 Feb 2016 11:33:31 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://blog.anitian.com/hacking-microsoft-sql-server-without-a-password/</link>
             <guid isPermaLink="false">5c539d44-69ae-4869-8cc5-aea15a66274b</guid>
             <pubDate>Mon, 08 Feb 2016 02:03:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reverse Engineering a WiFi Security Camera]]></title>
-            <description><![CDATA[<article><h1>Reverse Engineering a WiFi Security Camera</h1><p>The Internet of Things is slowly turning into the world's largest crappy robot, with devices seemingly designed to be insecure, all waiting to be rooted and exploited by anyone with the right know-how. The latest Internet-enabled device to fall is a Motorola Focus 73 outdoor security camera.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db462bcbcbaf39520c021681764af7e1a42467c4.jpg"></article>]]></description>
-            <link>http://hackaday.com/2016/02/06/reverse-engineering-a-wifi-security-camera/</link>
-            <guid isPermaLink="false">dc0f71e7-6b5c-48fc-a670-0d05156b9f68</guid>
-            <pubDate>Mon, 08 Feb 2016 01:58:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
