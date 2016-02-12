@@ -4,11 +4,18 @@
         <description><![CDATA[Information Security News]]></description>
         <link>https://thegrid.ai/security-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Feb 2016 12:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Feb 2016 12:47:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/security-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Microsoft Edge's InPrivate Mode Finally Keeps Your Activity Private]]></title>
+            <description><![CDATA[<article><h1>Microsoft Edge's InPrivate Mode Finally Keeps Your Activity Private</h1><p>Browsing the Web in ' Private Mode' is not as private as you think. Microsoft has patched the Private Browsing Leakage bug in its newest Edge browser with the latest update. When we talk about Browsers, only one thing which does not strike our mind is Internet Explorer or IE.</p><img src="https://4.bp.blogspot.com/-WhBHmbWY_Vo/Vr2wGOszrrI/AAAAAAAAmqM/SC2RNXxeU9c/s1600/microsoft-edge-inprivate-mode.png"></article>]]></description>
+            <link>https://thehackernews.com/2016/02/edge-inprivate-mode.html</link>
+            <guid isPermaLink="false">fcfb2138-e98b-44d8-b126-e597359e4adf</guid>
+            <pubDate>Fri, 12 Feb 2016 12:46:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[minimaxir/big-list-of-naughty-strings]]></title>
-            <description><![CDATA[<article><h1>minimaxir/big-list-of-naughty-strings</h1><p>big-list-of-naughty-strings - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8c5204baa12f0c5983133df5a9b918399075658.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>minimaxir/big-list-of-naughty-strings</h1><p>big-list-of-naughty-strings - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7de559026312b9a6e485011cf1a27bda39bbe19.jpg"></article>]]></description>
             <link>https://github.com/minimaxir/big-list-of-naughty-strings</link>
             <guid isPermaLink="false">3b1e91f7-a273-42ff-b177-1067041c1d7a</guid>
             <pubDate>Fri, 12 Feb 2016 12:43:02 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://motherboard.vice.com/read/hacker-plans-to-dump-alleged-details-of-20000-fbi-9000-dhs-employees</link>
             <guid isPermaLink="false">8824af2d-91b4-44e9-8d05-e26b3007821e</guid>
             <pubDate>Mon, 08 Feb 2016 11:27:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hacking Microsoft SQL Server Without a Password - Anitian Blog]]></title>
-            <description><![CDATA[<article><h1>Hacking Microsoft SQL Server Without a Password - Anitian Blog</h1><p>During a recent penetration test, I was performing some packet captures and noticed some unencrypted Microsoft SQL Server (MSSQL) traffic. The syntax was unmistakable. At first I thought this might be a way to capture some authentication credentials. However, MSSQL encrypts login traffic which meant I would have to crack the encryption to get credentials.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81f994ef9185166681400a4be79c37c1cf8a6104.png"></article>]]></description>
-            <link>https://blog.anitian.com/hacking-microsoft-sql-server-without-a-password/</link>
-            <guid isPermaLink="false">5c539d44-69ae-4869-8cc5-aea15a66274b</guid>
-            <pubDate>Mon, 08 Feb 2016 02:03:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
