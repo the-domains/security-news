@@ -4,11 +4,18 @@
         <description><![CDATA[Information Security News]]></description>
         <link>https://thegrid.ai/security-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 05:58:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 00:09:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/security-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Issue 703 - google-security-research - Comodo: Comodo Internet Security installs and starts a VNC server by default - Google Security Research - Google Project Hosting]]></title>
+            <description><![CDATA[<article><h1>Issue 703 - google-security-research - Comodo: Comodo Internet Security installs and starts a VNC server by default - Google Security Research - Google Project Hosting</h1><p>When you install Comodo Internet Security, in the default configuration an application called "GeekBuddy" is also installed and added to HKLM\System\CurrentControlSet\Services. GeekBuddy is a tech support application, that uses a number of questionable and shady tactics to encourage users to pay for online tech support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbb8e691ce444089bc6588e6746cffda93818281.jpg"></article>]]></description>
+            <link>https://code.google.com/p/google-security-research/issues/detail?id=703</link>
+            <guid isPermaLink="false">0c245549-41fd-4a6d-a2c8-7a629390f42e</guid>
+            <pubDate>Fri, 19 Feb 2016 00:08:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[VeraCrypt 1.17 fixes security issues, improves compatibility]]></title>
-            <description><![CDATA[<article><h1>VeraCrypt 1.17 fixes security issues, improves compatibility</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5db0388ff5836893a5d0b96bc2c00f4f5dabf3a3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>VeraCrypt 1.17 fixes security issues, improves compatibility</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93b3a87192ad59a2372fda7de0c992f20662cadb.jpg"></article>]]></description>
             <link>http://www.ghacks.net/2016/02/15/veracrypt-1-17-fixes-security-issues-improves-compatibility/</link>
             <guid isPermaLink="false">98a6023c-3aaa-4489-9ef5-d73575b95f82</guid>
             <pubDate>Mon, 15 Feb 2016 05:57:52 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.net-security.org/secworld.php?id=19421</link>
             <guid isPermaLink="false">ff4e3198-f18e-4a30-9906-164d4b6afcfd</guid>
             <pubDate>Wed, 10 Feb 2016 11:36:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hackers Are Offering Apple Employees $23,000 for Corporate Login Details]]></title>
-            <description><![CDATA[<article><h1>Hackers Are Offering Apple Employees $23,000 for Corporate Login Details</h1><p>An unsatisfied Employee may turn into a Nightmare for you and your organization. Nowadays, installing an antivirus or any other anti-malware programs would be inadequate to beef up the security to maintain the Corporate Database. What would you do if your employee itself backstabbed you by breaching the Hypersensitive Corporate Secrets?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c9d01d2ab1121bfc73b76867c7ed90f3f046216.jpg"></article>]]></description>
-            <link>https://thehackernews.com/2016/02/hacking-apple-id.html</link>
-            <guid isPermaLink="false">030cec3f-db56-4619-bdfe-04a99067c9a9</guid>
-            <pubDate>Wed, 10 Feb 2016 11:34:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
