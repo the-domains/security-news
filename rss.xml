@@ -4,11 +4,18 @@
         <description><![CDATA[Information Security News]]></description>
         <link>https://thegrid.ai/security-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 01:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 02:14:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/security-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Beware of hacked ISOs if you downloaded Linux Mint on February 20th!]]></title>
+            <description><![CDATA[<article><h1>Beware of hacked ISOs if you downloaded Linux Mint on February 20th!</h1><p>I'm sorry I have to come with bad news. We were exposed to an intrusion today. It was brief and it shouldn't impact many people, but if it impacts you, it's very important you read the information below. What happened?</p></article>]]></description>
+            <link>http://blog.linuxmint.com/?p=2994</link>
+            <guid isPermaLink="false">d2a82dc2-097d-46f9-8578-825f7d77f102</guid>
+            <pubDate>Sun, 21 Feb 2016 02:14:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[What keeps white hat hackers from turning to the dark side?]]></title>
-            <description><![CDATA[<article><h1>What keeps white hat hackers from turning to the dark side?</h1><p>To protect her identity, let's call her Dee. Dee describes herself as an ethical hacker. She is young, attractive, speaks with an Eastern European accent and has fiery red-purple hair. She reminds me of Mila Jovovich in the sci-fi movie, The Fifth Element. We were eating lunch at the Hack-in-the-Box conference in Amsterdam.</p><img src="http://images.techhive.com/images/article/2016/02/021916-tech-1-100645853-large.idge.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>What keeps white hat hackers from turning to the dark side?</h1><p>To protect her identity, let's call her Dee. Dee describes herself as an ethical hacker. She is young, attractive, speaks with an Eastern European accent and has fiery red-purple hair. She reminds me of Mila Jovovich in the sci-fi movie, The Fifth Element. We were eating lunch at the Hack-in-the-Box conference in Amsterdam.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/021dd388fa2fc35d00d31153ad40c4fd994fc2aa.jpg"></article>]]></description>
             <link>http://www.networkworld.com/article/3035594/security/what-keeps-white-hat-hackers-from-turning-to-the-dark-side.html#tk.rss_all</link>
             <guid isPermaLink="false">d8a79e0c-0b0b-4842-8d14-a1aaa169cb60</guid>
             <pubDate>Sun, 21 Feb 2016 01:09:42 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.ghacks.net/2016/02/10/good-news-sourceforge-stops-bundling-adware-with-installers/</link>
             <guid isPermaLink="false">35b47197-2314-4a7c-ba3a-eca125e4194d</guid>
             <pubDate>Wed, 10 Feb 2016 11:41:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All Versions of Windows affected by Critical Security Vulnerability]]></title>
-            <description><![CDATA[<article><h1>All Versions of Windows affected by Critical Security Vulnerability</h1><p>Microsoft has released 13 security bulletins, six of which are considered to be critical, resolving a total of 41 security vulnerabilities in its software this month. One of the critical vulnerabilities affects all supported version of Windows, including Microsoft's newest Windows 10 operating system, as well as Windows Server 2016 Tech Preview 4.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af4e79365b15b0f5f8ac588af27c8963a0a61861.png"></article>]]></description>
-            <link>https://thehackernews.com/2016/02/windows-security-update.html</link>
-            <guid isPermaLink="false">bfa68404-fe42-4ec4-9350-34860cfbeee3</guid>
-            <pubDate>Wed, 10 Feb 2016 11:37:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
