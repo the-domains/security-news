@@ -4,11 +4,18 @@
         <description><![CDATA[Information Security News]]></description>
         <link>https://thegrid.ai/security-news/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 00:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 01:10:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/security-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[What keeps white hat hackers from turning to the dark side?]]></title>
+            <description><![CDATA[<article><h1>What keeps white hat hackers from turning to the dark side?</h1><p>To protect her identity, let's call her Dee. Dee describes herself as an ethical hacker. She is young, attractive, speaks with an Eastern European accent and has fiery red-purple hair. She reminds me of Mila Jovovich in the sci-fi movie, The Fifth Element. We were eating lunch at the Hack-in-the-Box conference in Amsterdam.</p><img src="http://images.techhive.com/images/article/2016/02/021916-tech-1-100645853-large.idge.jpg"></article>]]></description>
+            <link>http://www.networkworld.com/article/3035594/security/what-keeps-white-hat-hackers-from-turning-to-the-dark-side.html#tk.rss_all</link>
+            <guid isPermaLink="false">d8a79e0c-0b0b-4842-8d14-a1aaa169cb60</guid>
+            <pubDate>Sun, 21 Feb 2016 01:09:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Issue 703 - google-security-research - Comodo: Comodo Internet Security installs and starts a VNC server by default - Google Security Research - Google Project Hosting]]></title>
-            <description><![CDATA[<article><h1>Issue 703 - google-security-research - Comodo: Comodo Internet Security installs and starts a VNC server by default - Google Security Research - Google Project Hosting</h1><p>When you install Comodo Internet Security, in the default configuration an application called "GeekBuddy" is also installed and added to HKLM\System\CurrentControlSet\Services. GeekBuddy is a tech support application, that uses a number of questionable and shady tactics to encourage users to pay for online tech support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bbb8e691ce444089bc6588e6746cffda93818281.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Issue 703 - google-security-research - Comodo: Comodo Internet Security installs and starts a VNC server by default - Google Security Research - Google Project Hosting</h1><p>When you install Comodo Internet Security, in the default configuration an application called "GeekBuddy" is also installed and added to HKLM\System\CurrentControlSet\Services. GeekBuddy is a tech support application, that uses a number of questionable and shady tactics to encourage users to pay for online tech support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d980b62991287b52d9ec3e92d8e45abfecbf3744.jpg"></article>]]></description>
             <link>https://code.google.com/p/google-security-research/issues/detail?id=703</link>
             <guid isPermaLink="false">0c245549-41fd-4a6d-a2c8-7a629390f42e</guid>
             <pubDate>Fri, 19 Feb 2016 00:08:14 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thehackernews.com/2016/02/windows-security-update.html</link>
             <guid isPermaLink="false">bfa68404-fe42-4ec4-9350-34860cfbeee3</guid>
             <pubDate>Wed, 10 Feb 2016 11:37:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Network forensic analysis tool NetworkMiner 2.0 released]]></title>
-            <description><![CDATA[<article><h1>Network forensic analysis tool NetworkMiner 2.0 released</h1><p>NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, open ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c1bc580b6fb178c80241f8d8721488770c5120c.jpg"></article>]]></description>
-            <link>http://www.net-security.org/secworld.php?id=19421</link>
-            <guid isPermaLink="false">ff4e3198-f18e-4a30-9906-164d4b6afcfd</guid>
-            <pubDate>Wed, 10 Feb 2016 11:36:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
